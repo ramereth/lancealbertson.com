@@ -11,15 +11,14 @@ degree in `Agriculture Technology Management`_. I also received minors in
 `Agronomy`_ and Computer Science at K-State.
 
 .. image:: {filename}/media/lance-cloud9-trumpet.jpg
-    :width: 20%
+    :width: 30%
     :align: right
     :alt: Picture of Lance playing a trumpet
 
 In June of 2007, I took a huge leap of faith and moved to Oregon. I left my
 whole family and most of my friends behind to take on a dream job at Oregon
-State University. Currently I'm the Associate Director of Operations at the `OSU
-Open Source Lab`_ and help make sure important open source projects keep their
-servers running!
+State University. Currently I'm the Director at the `OSU Open Source Lab`_ and
+help make sure important open source projects keep their servers running!
 
 Professional Career
 ~~~~~~~~~~~~~~~~~~~
@@ -33,8 +32,9 @@ K-State as a full-time UNIX Admin. While there I was involved in many projects
 some including campus email. In 2007 I was blessed by the opportunity of getting
 my dream job at the `Oregon State University`_ `Open Source Lab`_ as their lead
 system administrator till February 2012. Starting in March 2012 I took on a new
-role as Associate Director of Operations and drive many of the hosting and
-development initiatives of the `OSU Open Source Lab`_.
+role as Associate Director of Operations and then Director in January 2013. I
+drive many of the hosting, development and outreach initiatives of the `OSU Open
+Source Lab`_.
 
 Open Source
 ~~~~~~~~~~~
@@ -56,18 +56,18 @@ Music
 ~~~~~
 
 While I K-State, I was a member of the `KSU Marching Band`_ for four years and
-played mellow phone, flugel horn, and trumpet (not at the same time obviously).
+played mellow phone, flugel horn and trumpet (not at the same time obviously).
 Being in the KSUMB was probably the most important decisions I've ever made in
 my life. It opened me up to a great group of friends, leadership skills,
-networking, and so much more. I also became a member of the `Epsilon Pi`_
-chapter of `Kappa Kappa Psi`_ at KSU and did volunteer work to help support the
-marching band.
+networking and so much more. I also became a member of the `Epsilon Pi`_ chapter
+of `Kappa Kappa Psi`_ at KSU and did volunteer work to help support the marching
+band.
 
 Jazz music has always been important to me and I treat it was a gift for me to
 express myself in completely different way than normal. I've been playing
 trumpet since the 5th grade and I have yet to stop playing! I had the pleasure
 of playing in several jazz ensembles at K-State. As a student, I was in Lab A,
-Concert Jazz Ensemble (the premier band), and the Latin Jazz Ensemble. When I
+Concert Jazz Ensemble (the premier band) and the Latin Jazz Ensemble. When I
 returned back to K-State with my UNIX career, I returned to the jazz scene and
 played in Lab B for several years and helped mentor young jazz students.
 
@@ -89,16 +89,16 @@ on my `flickr stream`_ and on my `youtube channel`_ from my recently flying
 activities.
 
 .. _Kansas State University: http://www.ksu.edu
-.. _Agriculture Technology Management: http://www.bae.ksu.edu/degrees/atm-program.php
+.. _Agriculture Technology Management: http://www.bae.ksu.edu/degrees/atm
 .. _Agronomy: http://www.agronomy.k-state.edu/
 .. _OSU Open Source Lab: http://osuosl.org
-.. _RHS, Inc: http://rhs-inc.com
+.. _RHS, Inc: http://bestway-inc.com/index.php/www/company/rhs_timeline
 .. _Enterprise Server Technologies: http://www.k-state.edu/cts/est/
 .. _Oregon State University: http://oregonstate.edu
 .. _Open Source Lab: http://osuosl.org
 .. _Gentoo Linux: http://www.gentoo.org
-.. _KSU Marching Band: http://www.k-state.edu/band/KSUMB/
-.. _Epsilon Pi: http://www.k-state.edu/band/kky_tbs/kky_tbs_main.html
+.. _KSU Marching Band: http://www.k-state.edu/band/thepride/index.html
+.. _Epsilon Pi: http://www.k-state.edu/kkytbs/kky/
 .. _Kappa Kappa Psi: http://kkytbs.org/
 .. _The Infallible Collective: http://www.infalliblecollective.com
 .. _Horizon Hobby: http://www.horizonhobby.com

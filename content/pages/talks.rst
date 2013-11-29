@@ -18,6 +18,8 @@ Here's a list of talks I have coming up and a few that I have done recently.
 Upcoming Conference Talks
 -------------------------
 
+None yet...
+
 Past Conference Talks
 ---------------------
 
