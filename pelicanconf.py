@@ -40,10 +40,10 @@ SOCIAL = (
           ('twitter', 'http://twitter.com/ramereth'),
           ('google-plus', 'https://plus.google.com/105236849868554834121/posts'),
           ('linkedin', 'http://www.linkedin.com/in/ramereth'),
-          ('youtube', 'http://www.youtube.com/ramereth'),)
+          ('youtube', 'http://www.youtube.com/ramereth'),
           ('flickr', 'http://www.flickr.com/photos/ramereth/'),
           ('osu open source lab', 'http://osuosl.org/'),
-          ('the infallible collective', 'http://www.infalliblecollective.com/'),
+          ('the infallible collective', 'http://www.infalliblecollective.com/'), )
 
 DEFAULT_PAGINATION = 4
 
