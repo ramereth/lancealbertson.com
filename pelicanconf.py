@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Lance Albertson'
 SITENAME = u'Lance Albertson'
 SITEURL = ''
-THEME = 'pelican-bootstrap3'
+THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cosmo'
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 5
