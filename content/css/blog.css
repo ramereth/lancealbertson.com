@@ -1,0 +1,10 @@
+/* Styles for Lance's blog */
+
+table {
+    border-color: white
+}
+
+img.floatright {
+    float: right
+    margin: 5px
+}
