@@ -2,11 +2,12 @@ OSUOSL is hiring: Full-Time Developer in Corvallis
 ##################################################
 :date: 2010-12-29 11:55
 :author: lance
-:tags: corvallis, developer, django, hiring, job, open source job, open source lab, oregon, oregon state university, osl, osuosl, python, ruby
+:tags: corvallis, developer, django, hiring, job, open source job, open source
+  lab, oregon, oregon state university, osl, osuosl, python, ruby
 :slug: osuosl-is-hiring-full-time-developer-in-corvallis
 
-.. figure:: {filename}/media/osuosl-logo.png
-   :align: center
+.. image:: {filename}/media/osuosl-logo.png
+   :align: right
    :alt: osl
 
 Want to work at the coolest place for open source **and** support the missions

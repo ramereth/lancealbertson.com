@@ -5,8 +5,8 @@ Ganeti Web Manager 0.4 released
 :tags: django, ganeti, ganeti web interface, ganeti-webmgr, virtualization
 :slug: ganeti-web-manager-0-4-released
 
-.. figure:: {filename}/media/gwm-logo.png
-   :align: center
+.. image:: {filename}/media/gwm-logo.png
+   :align: right
    :alt: Ganeti Web Manager logo
 
 After three months of development `Ganeti Web Manager`_ 0.4 has been released!
@@ -61,27 +61,31 @@ Screenshots:
 
 List all virtual machines on a cluster:
 
-.. figure:: {filename}/media/cluster-vm-tab.png
-   :width: 90%
-   :alt: List VMs in a cluster
+.. image:: {filename}/media/cluster-vm-tab.png
+    :align: center
+    :width: 80%
+    :alt: List VMs in a cluster
 
 Creating a new virtual machine form:
 
-.. figure:: {filename}/media/vm-add.png
-   :width: 90%
-   :alt: Creating a new virtual machine
+.. image:: {filename}/media/vm-add.png
+    :align: center
+    :width: 80%
+    :alt: Creating a new virtual machine
 
 Virtual machine reation output dynamically updating:
 
-.. figure:: {filename}/media/vm-create-output.png
-   :width: 90%
-   :alt: VM Creation output
+.. image:: {filename}/media/vm-create-output.png
+    :align: center
+    :width: 80%
+    :alt: VM Creation output
 
 Virtual machine VNC console using the java client.
 
-.. figure:: {filename}/media/vm-console.png
-   :width: 90%
-   :alt: VM VNC Console
+.. image:: {filename}/media/vm-console.png
+    :align: center
+    :width: 80%
+    :alt: VM VNC Console
 
 Upcoming Features
 -----------------

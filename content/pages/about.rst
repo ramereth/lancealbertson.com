@@ -10,8 +10,9 @@ family farms around 1800 acres. I attended `Kansas State University`_ and got a
 degree in `Agriculture Technology Management`_. I also received minors in
 `Agronomy`_ and Computer Science at K-State.
 
-.. figure:: {filename}/media/lance-cloud9-trumpet.jpg
+.. image:: {filename}/media/lance-cloud9-trumpet.jpg
     :width: 20%
+    :align: right
     :alt: Picture of Lance playing a trumpet
 
 In June of 2007, I took a huge leap of faith and moved to Oregon. I left my

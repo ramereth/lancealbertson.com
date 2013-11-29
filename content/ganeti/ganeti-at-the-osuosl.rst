@@ -49,8 +49,9 @@ django framework and connecting to Ganeti via its RAPI protocol. Our lead
 developer `Peter Krenesky`_ and many of our students have been hard at work on
 this project in the last month and a half.
 
-.. figure:: {filename}/media/createvm.png
-    :width: 90%
+.. image:: {filename}/media/createvm.png
+    :align: center
+    :width: 80%
     :alt: image
 
 Some of the goals of this project include:

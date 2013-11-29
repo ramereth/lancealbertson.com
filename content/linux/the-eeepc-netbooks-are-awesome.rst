@@ -5,7 +5,8 @@ The EeePC netbooks are awesome!
 :tags: eeepc, eeepc 1000, gentoo, linux, netbook
 :slug: the-eeepc-netbooks-are-awesome
 
-.. figure:: {filename}/media/eeepc1000-299x300.png
+.. image:: {filename}/media/eeepc1000-299x300.png
+    :align: right
     :alt: eepc laptop
 
 As some of you may have noticed, I usually carry around a tiny little black

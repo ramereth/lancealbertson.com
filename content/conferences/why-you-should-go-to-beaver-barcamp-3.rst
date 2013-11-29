@@ -20,8 +20,8 @@ But what is a `BarCamp`_ exactly?
     discussions, demos and interaction from participants who are the
     main actors of the event. -- `barcamp.org`_
 
-.. figure:: {filename}/media/bbc-logo.png
-   :align: center
+.. image:: {filename}/media/bbc-logo.png
+   :align: right
    :alt: beaver barcamp
 
 This is the third incarnation of Beaver BarCamp in Corvallis and is bound to be

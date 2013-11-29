@@ -10,7 +10,8 @@ getting the pizza's lined up for us. It never ceases to amaze me about the tech
 community here in Corvallis. It may be smaller than Portland, but its certainly
 just as full of energy and ideas!
 
-.. figure:: {filename}/media/fireworks.jpg
+.. image:: {filename}/media/fireworks.jpg
+    :align: right
     :alt: Fireworks Restaurant
 
 Tonight I overheard some discussions about getting other user groups going on a

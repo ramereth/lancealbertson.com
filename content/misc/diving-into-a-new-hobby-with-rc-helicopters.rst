@@ -2,7 +2,8 @@ Diving into a new hobby with RC Helicopters
 ###########################################
 :date: 2011-01-27 01:33
 :author: lance
-:tags: blade, Blade 120 SR, blade mCX2, Blade mSR, e-flight, helicopters, hobby, horizon hobby, radio controlled helicopters, rc
+:tags: blade, Blade 120 SR, blade mCX2, Blade mSR, e-flight, helicopters, hobby,
+  horizon hobby, radio controlled helicopters, rc
 :slug: diving-into-a-new-hobby-with-rc-helicopters
 
 For the last several months I've been trying to find a new hobby that is totally
@@ -42,6 +43,7 @@ SR which gives me about 45 minutes of fly time.
 
 .. figure:: {filename}/media/heli-fleet.jpg
     :width: 80%
+    :align: center
     :alt: Blade mCX2, Blade 120 SR, Blade mSR
 
     My heli fleet thus far. (left to right: Blade mCX2, Blade 120 SR, Blade

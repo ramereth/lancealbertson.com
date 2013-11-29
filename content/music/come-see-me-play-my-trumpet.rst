@@ -2,10 +2,12 @@ Come see me play my trumpet!
 ############################
 :date: 2009-01-23 21:08
 :author: lance
-:tags: albany, charlies rhythm &amp; brews, jazz, live music, the infallible collective, trumpet
+:tags: albany, charlies rhythm &amp; brews, jazz, live music, the infallible
+  collective, trumpet
 :slug: come-see-me-play-my-trumpet
 
-.. figure:: {filename}/media/trumpet-225x300.jpg
+.. image:: {filename}/media/trumpet-225x300.jpg
+    :align: right
     :alt: trumpet
 
 That's right, come see my musical talents next Tuesday night from 6:30 - 8PM at

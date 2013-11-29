@@ -1,10 +1,21 @@
 /* Styles for Lance's blog */
 
-table {
-    border-color: white
+table.docutils {
+    border-color: transparent;
 }
 
-img.floatright {
-    float: right
-    margin: 5px
+td {
+    padding: 4px;
+}
+
+img.align-right, .figure.align-right img {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+.figure.align-center img, .figure.align-center p.caption, img.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }

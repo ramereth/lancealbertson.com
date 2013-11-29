@@ -12,6 +12,7 @@ a private tour by Facebook's Senior Open Source Manager, David Recordon.
 I was very impressed with the facility on many levels.
 
 .. figure:: http://farm6.static.flickr.com/5224/5625539489_81be2e93d8.jpg
+    :align: center
     :alt: Triplet racks & UPS
 
     Triplet racks & UPS
@@ -22,6 +23,7 @@ racks in person. They were quite impressive. One triplet rack can hold **ninty**
 racks at the OSL. I hope they fit as those triplet racks were rather tall!
 
 .. figure:: http://farm6.static.flickr.com/5030/5626125220_9c0634ea59.jpg
+    :align: center
     :alt: Web & memcached servers
 
     Web & memcached servers
@@ -33,6 +35,7 @@ memcached servers were using AMD. The blue LED's on the servers cost Facebook an
 extra $0.05 per unit compared to green LED's.
 
 .. figure:: http://farm6.static.flickr.com/5025/5626128856_2afc9bdd84.jpg
+    :align: center
     :alt: Hot aisle
 
     Hot aisle
@@ -43,6 +46,7 @@ design of the open compute servers and the fact that they are using
 negative/positive airflow in the whole facility to push cold/hot air.
 
 .. figure:: http://farm6.static.flickr.com/5223/5626125834_1a225274ac.jpg
+    :align: center
     :alt: Generators
 
     Generators
@@ -64,6 +68,7 @@ If you would like to see more of the pictures I took, please check out my album
 below.
 
 .. figure:: http://farm6.static.flickr.com/5224/5625539489_81be2e93d8_t.jpg
+    :align: center
     :alt: Facebook Prineville Datacenter
 
     Facebook Prineville Datacenter

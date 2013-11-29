@@ -2,7 +2,8 @@ Ganeti Web Manager 0.5 Released
 ###############################
 :date: 2011-02-03 11:54
 :author: lance
-:tags: django, ganeti, ganeti web manager, gwm, novnc, virtualization, websockets
+:tags: django, ganeti, ganeti web manager, gwm, novnc, virtualization,
+  websockets
 :slug: ganeti-web-manager-0-5-released
 
 After nearly a month and a half (42 days) of development since 0.4 was released,
@@ -28,8 +29,9 @@ console access. This removes the Java requirement for your browsers and makes it
 much easier to use. It works the best using Chrome/Chromium but you can also use
 Firefox.
 
-.. figure:: {filename}/media/novnc-console.png
-    :width: 90%
+.. image:: {filename}/media/novnc-console.png
+    :width: 80%
+    :align: center
     :alt: novnc console
 
 New Overview Page
@@ -39,8 +41,9 @@ I'm also excited about the new overview pages for users and admins. It makes it
 much easier to see the usage of your cluster(s) quickly. For users it will show
 some basic resource/quota usage.
 
-.. figure:: {filename}/media/dashboard.png
-    :width: 90%
+.. image:: {filename}/media/dashboard.png
+    :align: center
+    :width: 80%
     :alt: new overview page
 
 Upgrading
