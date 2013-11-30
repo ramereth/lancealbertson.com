@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Lance Albertson'
 SITENAME = u'Lance Albertson'
-SITEURL = ''
+SITEURL = 'http://lancealbertson.com'
 THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cosmo'
 TAG_CLOUD_STEPS = 4
@@ -25,10 +25,11 @@ ADDTHIS_PROFILE = 'ra-5297f22e2ba1d375'
 GOOGLE_ANALYTICS = 'UA-7186407-1'
 DISQUS_SITENAME = 'lancealbertson'
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+#TAG_FEED_RSS = 'feeds/tag.%s.rss.xml'
+#TAG_FEED_ATOM = 'feeds/tag.%s.atom.xml'
+FEED_MAX_ITEMS = '5'
 
 # Blogroll
 LINKS =  (('osu open source lab', 'http://osuosl.org/'),
@@ -44,8 +45,25 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 4
 
+PLUGIN_PATH = 'pelican-plugins'
+PLUGINS = [ 'sitemap', ]
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.6,
+        'indexes': 1.0,
+        'pages': 0.6
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
 CSS_FILE = ( 'css/blog.css' )
-STATIC_PATHS = ["media", "css", "favicon.png" ]
+STATIC_PATHS = ["media", "css", "favicon.png", "robots.txt" ]
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

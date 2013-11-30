@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://www.lancealbertson.com/sitemap.xml
