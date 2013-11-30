@@ -27,8 +27,8 @@ DISQUS_SITENAME = 'lancealbertson'
 
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-#TAG_FEED_RSS = 'feeds/tag.%s.rss.xml'
-#TAG_FEED_ATOM = 'feeds/tag.%s.atom.xml'
+TAG_FEED_RSS = 'feeds/tag.%s.rss.xml'
+TAG_FEED_ATOM = 'feeds/tag.%s.atom.xml'
 FEED_MAX_ITEMS = '5'
 
 # Blogroll
