@@ -71,12 +71,14 @@ LinuxCon
 
 ====  ================================================================================
 2013  GlusterFS at OSUOSL (Gluster Workshop)
-2012  Hands-on Virtualization with Ganeti
+2012  Hands-on Virtualization with Ganeti (`slides part #1`__) (`slides part #2`__)
 2012  Ganeti Web Manager: Cluster Management Made Simple
 2011  Hosting Open Source Projects at the OSUOSL (`html`__) (`pdf`__)
 2010  Creating a low-cost clustered virtualization environment using Ganeti (`html`__)
 ====  ================================================================================
 
+.. __: http://www.slideshare.net/ramereth/hands-on-virtualization-with-ganeti-part-1-linux-con
+.. __: http://www.slideshare.net/ramereth/ganeti-handson-walkthru-part-2-linuxcon-2012
 .. __: http://lancealbertson.com/slides/hosting-osuosl-linuxcon11/
 .. __: http://lancealbertson.com/slides/hosting-osuosl-linuxcon11/Hosting_Open_Source_Projects_at_the_OSUOSL.pdf
 .. __: http://lancealbertson.com/slides/ganeti-linuxcon10/
@@ -94,13 +96,13 @@ DrupalCon
 SCALE
 ~~~~~
 
-==========  =================================================================
-2012 (11x)  `Ten years of FOSS hosting at the OSU Open Source Lab`_ (`pdf`__)
+==========  ====================================================================
+2012 (11x)  `Ten years of FOSS hosting at the OSU Open Source Lab`_ (`slides`__)
 2010  (9x)  `Scalable Virtualization with Ganeti`_ (`html`__) (`pdf`__)
-==========  =================================================================
+================================================================================
 
 .. _Ten years of FOSS hosting at the OSU Open Source Lab: http://www.socallinuxexpo.org/scale11x/presentations/ten-years-foss-hosting-osu-open-source-lab
-.. __: http://www.socallinuxexpo.org/sites/default/files/presentations/Lance-10%20Years%20of%20FOSS%20Hosting%20at%20the%20OSUOSL.pdf
+.. __: http://www.slideshare.net/ramereth/10-years-of-foss-hosting-at-the-osuosl
 .. _Scalable Virtualization with Ganeti: http://www.socallinuxexpo.org/scale9x/presentations/scalable-virtualization-ganeti
 .. __: http://lancealbertson.com/slides/ganeti-scale9x/
 .. __: http://www.socallinuxexpo.org/scale9x-media/scalemedia/scale/scale9x-media/simple_cfp/presentations/18_00-LanceAlbertson-ganeti.pdf
@@ -108,12 +110,13 @@ SCALE
 LinuxFest Northwest
 ~~~~~~~~~~~~~~~~~~~
 
-====  ============================================================================
-2013  `Zero to root in 12 months / How We Mentor “Rock Star” Students`__ (`pdf`__)
+====  =========================================================================================
+2013  `Zero to root in 12 months / How We Mentor “Rock Star” Students`__ (`slides`__) (`pdf`__)
 2013  `Comparing Ganeti to Other Open Source Private Cloud Platforms`_ (`pdf`__)
-====  ============================================================================
+====  =========================================================================================
 
 .. __: http://www.linuxfestnorthwest.org/content/zero-root-12-months-how-we-mentor-%E2%80%9Crock-star%E2%80%9D-students
+.. __: http://www.slideshare.net/ramereth/linuxfestnw-2013-how-we-mentor-rock-star-students
 .. __: http://www.linuxfestnorthwest.org/sites/default/files/slides/Rock_Start_Students_OSUOSL.pdf
 .. _Comparing Ganeti to Other Open Source Private Cloud Platforms: http://linuxfestnorthwest.org/content/comparing-ganeti-other-open-source-private-cloud-platforms
 .. __: http://linuxfestnorthwest.org/sites/default/files/slides/Comparing%20Ganeti%20to%20other%20private%20cloud%20platforms.pdf
@@ -133,11 +136,13 @@ GanetiCon
 PuppetConf
 ~~~~~~~~~~
 
-====  =================================================
-2013  `Lessons Learned in the OSUOSL Puppet Migration`_
-====  =================================================  
+=================== ===========================================================
+2013                `Lessons Learned in the OSUOSL Puppet Migration`_
+2013 (PuppetCampLA) Lessons Learned in the OSUOSL Puppet Migration (`slides`__)
+=================== ===========================================================
 
 .. _Lessons Learned in the OSUOSL Puppet Migration: http://puppetconf2013b.sched.org/event/f51ebceee51257bad5964a88cbe7158d#.UpfOWrWJAjA
+.. __: http://www.slideshare.net/ramereth/lessons-learned-in-the-osuosl-puppet-migration
 
 Courses
 -------
