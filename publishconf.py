@@ -13,8 +13,6 @@ ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-TAG_URL = 'tag/{slug}/'
-TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 TIMEZONE = 'US/Pacific'
 
