@@ -25,11 +25,11 @@ ADDTHIS_PROFILE = 'ra-5297f22e2ba1d375'
 GOOGLE_ANALYTICS = 'UA-7186407-1'
 DISQUS_SITENAME = 'lancealbertson'
 
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-TAG_FEED_RSS = 'feeds/tag.%s.rss.xml'
-TAG_FEED_ATOM = 'feeds/tag.%s.atom.xml'
-FEED_MAX_ITEMS = '5'
+CATEGORY_FEED_RSS = None
+FEED_ALL_RSS = None
+TAG_FEED_RSS = None
+TAG_FEED_ATOM = None
+FEED_MAX_ITEMS = None
 
 # Blogroll
 LINKS =  (('osu open source lab', 'http://osuosl.org/'),
