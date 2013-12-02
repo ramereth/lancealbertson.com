@@ -2,7 +2,8 @@ Facebook Prineville Datacenter
 ##############################
 :date: 2011-04-16 18:38
 :author: lance
-:tags: datacenter, facebook, linux, opencompute, prineville, prineville oregon
+:tags: datacenter, facebook, linux, opencompute, prineville, prineville oregon,
+  planet
 :slug: facebook-prineville-datacenter
 
 Along with the rest of the `OSU Open Source Lab`_ crew (including

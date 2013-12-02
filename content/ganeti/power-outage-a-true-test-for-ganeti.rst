@@ -2,7 +2,7 @@ Power Outage: A true test for Ganeti
 ####################################
 :date: 2010-05-20 17:06
 :author: lance
-:tags: drbd, ganeti, kvm, power outage, virtualization
+:tags: drbd, ganeti, kvm, power outage, virtualization, planet
 :slug: power-outage-a-true-test-for-ganeti
 
 Nothing like a power outage gone wrong to test a new virtualization cluster.

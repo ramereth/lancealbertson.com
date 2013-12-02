@@ -2,7 +2,7 @@ Ganeti at the OSUOSL
 ####################
 :date: 2010-12-08 23:34
 :author: lance
-:tags: django, ganeti, kvm, virtualization
+:tags: django, ganeti, kvm, virtualization, planet
 :slug: ganeti-at-the-osuosl
 
 One of the many large projects I'm working on at the `OSUOSL`_ has been

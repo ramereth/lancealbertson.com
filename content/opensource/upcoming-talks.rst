@@ -2,7 +2,7 @@ Upcoming Talks
 ##############
 :date: 2010-05-10 22:16
 :author: lance
-:tags: conferences, ganeti, kvm, virtualization
+:tags: conferences, ganeti, kvm, virtualization, planet
 :slug: upcoming-talks
 
 I'm going to be speaking at several open source conferences this summer.  Most

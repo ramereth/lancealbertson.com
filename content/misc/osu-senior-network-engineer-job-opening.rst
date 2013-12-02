@@ -2,7 +2,7 @@ OSU Senior Network Engineer job opening
 #######################################
 :date: 2010-06-10 09:37
 :author: lance
-:tags: job opening, network engineer, oregonstate, osu
+:tags: job opening, network engineer, oregonstate, osu, planet
 :slug: osu-senior-network-engineer-job-opening
 
 The `Network Engineering`_ department at `Oregon State University`_ has a job

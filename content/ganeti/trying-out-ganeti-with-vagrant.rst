@@ -2,7 +2,7 @@ Trying out Ganeti with Vagrant
 ##############################
 :date: 2012-05-20 23:09
 :author: lance
-:tags: ganeti, vagrant, virtualbox, virtualization
+:tags: ganeti, vagrant, virtualbox, virtualization, planet
 :slug: trying-out-ganeti-with-vagrant
 
 `Ganeti`_ is a very powerful tool but often times people have to look for spare

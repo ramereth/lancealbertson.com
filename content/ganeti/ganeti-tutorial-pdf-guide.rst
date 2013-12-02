@@ -2,7 +2,7 @@ Ganeti Tutorial PDF guide
 #########################
 :date: 2012-06-12 18:53
 :author: lance
-:tags: ganeti, howto, vagrant, virtualization
+:tags: ganeti, howto, vagrant, virtualization, planet
 :slug: ganeti-tutorial-pdf-guide
 
 As I mentioned in my previous blog post, trying out Ganeti can be cumbersome and

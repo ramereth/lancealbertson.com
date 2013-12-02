@@ -3,7 +3,7 @@ Ganeti Web Manager 0.5 Released
 :date: 2011-02-03 11:54
 :author: lance
 :tags: django, ganeti, ganeti web manager, gwm, novnc, virtualization,
-  websockets
+  websockets, planet
 :slug: ganeti-web-manager-0-5-released
 
 After nearly a month and a half (42 days) of development since 0.4 was released,

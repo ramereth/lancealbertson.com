@@ -2,7 +2,8 @@ Ganeti Web Manager 0.4 released
 ###############################
 :date: 2010-12-22 14:40
 :author: lance
-:tags: django, ganeti, ganeti web interface, ganeti-webmgr, virtualization
+:tags: django, ganeti, ganeti web interface, ganeti-webmgr, virtualization,
+  planet
 :slug: ganeti-web-manager-0-4-released
 
 .. image:: {filename}/media/gwm-logo.png

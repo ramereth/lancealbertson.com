@@ -2,7 +2,8 @@ Handling HDD failures with Ganeti
 #################################
 :date: 2011-02-05 12:40
 :author: lance
-:tags: drbd, evacuate, failover, ganeti, gnt-instance, gnt-node, hard drive failure, outage, replace-disks, virtualization
+:tags: drbd, evacuate, failover, ganeti, gnt-instance, gnt-node, hard drive
+  failure, outage, replace-disks, virtualization, planet
 :slug: handling-hdd-failures-with-ganeti
 
 Recently I had one of the nodes in a `Ganeti`_ cluster go down because of a

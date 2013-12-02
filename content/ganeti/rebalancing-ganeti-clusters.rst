@@ -2,7 +2,8 @@ Rebalancing Ganeti Clusters
 ###########################
 :date: 2011-05-02 22:55
 :author: lance
-:tags: ganeti, hbal, htools, iaas, private cloud, rebalancing ganeti, virtualization
+:tags: ganeti, hbal, htools, iaas, private cloud, rebalancing ganeti,
+  virtualization, planet
 :slug: rebalancing-ganeti-clusters
 
 One of the best features of Ganeti is its ability to grow *linearly* by adding

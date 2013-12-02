@@ -2,7 +2,8 @@ Networking with Ganeti
 ######################
 :date: 2011-03-12 18:07
 :author: lance
-:tags: bridge interface, ganeti, gentoo, network setup, virtualization, vlan
+:tags: bridge interface, ganeti, gentoo, network setup, virtualization, vlan,
+  planet
 :slug: networking-with-ganeti
 
 I've been asked quite a bit about how I do our network setup with Ganeti. I

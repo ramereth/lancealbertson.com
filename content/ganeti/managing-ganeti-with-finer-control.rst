@@ -2,7 +2,8 @@ Managing Ganeti with finer control
 ##################################
 :date: 2010-12-28 18:06
 :author: lance
-:tags: django, ganeti, ganeti web interface, ganeti-webmgr, virtualization
+:tags: django, ganeti, ganeti web interface, ganeti-webmgr, virtualization,
+  planet
 :slug: managing-ganeti-with-finer-control
 
 Lead `OSUOSL`_ Developer `Peter Krenesky`_ has written an excellent `blog post`_

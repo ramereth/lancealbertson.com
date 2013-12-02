@@ -2,7 +2,8 @@ Speaking at SCALE 9x
 ####################
 :date: 2011-02-06 10:56
 :author: lance
-:tags: conferences, ganeti, linux, presentation, SCALE, scale9x, virtualization
+:tags: conferences, ganeti, linux, presentation, SCALE, scale9x, virtualization,
+  planet
 :slug: speaking-at-scale-9x
 
 .. image:: {filename}/media/scale9x.gif

@@ -2,7 +2,7 @@ Creating a scalable virtualization cluster with Ganeti
 ######################################################
 :date: 2010-05-15 17:39
 :author: lance
-:tags: cluster, drbd, ganeti, kvm, virtualization, xen
+:tags: cluster, drbd, ganeti, kvm, virtualization, xen, planet
 :slug: creating-a-scalable-virtualization-cluster-with-ganeti
 
 Creating a virtualization cluster that is scalable, cheap, and easy to manage

@@ -2,7 +2,7 @@ Installing Ganeti on Gentoo
 ###########################
 :date: 2010-05-21 22:52
 :author: lance
-:tags: drbd, ganeti, gentoo, kvm, virtualization
+:tags: drbd, ganeti, gentoo, kvm, virtualization, planet
 :slug: installing-ganeti-on-gentoo
 
 Installing Ganeti is a relatively simple process on Gentoo. This post will go
