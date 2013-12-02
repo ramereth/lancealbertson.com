@@ -63,7 +63,8 @@ SITEMAP = {
 }
 
 CSS_FILE = ( 'css/blog.css' )
-STATIC_PATHS = ["media", "css", "favicon.png", "robots.txt", "slides" ]
+STATIC_PATHS = ["media", "css", "favicon.png", "favicon.ico", "robots.txt",
+    "slides" ]
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
