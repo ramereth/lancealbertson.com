@@ -68,11 +68,18 @@ Damnit!
 If you would like to see more of the pictures I took, please check out my album
 below.
 
-.. figure:: http://farm6.static.flickr.com/5224/5625539489_81be2e93d8_t.jpg
-    :align: center
-    :alt: Facebook Prineville Datacenter
+.. raw:: html
 
-    Facebook Prineville Datacenter
+    <object width="400" height="300"> <param name="flashvars"
+    value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Framereth%2Fsets%2F72157626388292459%2Fshow%2F&page_show_back_url=%2Fphotos%2Framereth%2Fsets%2F72157626388292459%2F&set_id=72157626388292459&jump_to="></param>
+    <param name="movie"
+    value="http://www.flickr.com/apps/slideshow/show.swf?v=138195"></param> <param
+    name="allowFullScreen" value="true"></param><embed
+    type="application/x-shockwave-flash"
+    src="http://www.flickr.com/apps/slideshow/show.swf?v=138195"
+    allowFullScreen="true"
+    flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Framereth%2Fsets%2F72157626388292459%2Fshow%2F&page_show_back_url=%2Fphotos%2Framereth%2Fsets%2F72157626388292459%2F&set_id=72157626388292459&jump_to="
+    width="400" height="300"></embed></object>
 
 Thanks David for inviting us!
 
