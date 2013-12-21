@@ -38,7 +38,7 @@ SOCIAL = (
           ('github', 'http://github.com/ramereth/'),
           ('linkedin', 'http://www.linkedin.com/in/ramereth'),
           ('twitter', 'http://twitter.com/ramereth'),
-          ('google-plus', 'https://plus.google.com/105236849868554834121/posts'),
+          ('google-plus', 'http://google.com/+LanceAlbertson'),
           ('youtube', 'http://www.youtube.com/ramereth'),)
 
 DEFAULT_PAGINATION = 4
