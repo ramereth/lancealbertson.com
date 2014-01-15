@@ -18,7 +18,12 @@ Here's a list of talks I have coming up and a few that I have done recently.
 Upcoming Conference Talks
 -------------------------
 
-None yet...
+============== ============= ==================================
+February 21-23 `SCALE 12x`__ `Devops for University Students`__
+============== ============= ==================================
+
+.. __: http://www.socallinuxexpo.org/scale12x
+.. __: http://www.socallinuxexpo.org/scale12x/presentations/devops-university-students
 
 Past Conference Talks
 ---------------------
