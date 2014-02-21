@@ -18,12 +18,14 @@ Here's a list of talks I have coming up and a few that I have done recently.
 Upcoming Conference Talks
 -------------------------
 
-============== ============= ==================================
-February 21-23 `SCALE 12x`__ `Devops for University Students`__
-============== ============= ==================================
+============== ================= ==================================
+February 21-23 `SCALE 12x`__     `Devops for University Students`__
+April 15-17    `ChefConf 2014`__ Devops for University Students
+============== ================= ==================================
 
 .. __: http://www.socallinuxexpo.org/scale12x
 .. __: http://www.socallinuxexpo.org/scale12x/presentations/devops-university-students
+.. __: http://chefconf.opscode.com/chefconf/
 
 Past Conference Talks
 ---------------------
