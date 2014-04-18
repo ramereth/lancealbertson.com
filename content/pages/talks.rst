@@ -18,14 +18,12 @@ Here's a list of talks I have coming up and a few that I have done recently.
 Upcoming Conference Talks
 -------------------------
 
-============== ================= ==================================
-February 21-23 `SCALE 12x`__     `Devops for University Students`__
-April 15-17    `ChefConf 2014`__ Devops for University Students
-============== ================= ==================================
+=============== ========= ==================================
+Jul 20-24, 2014 `OSCON`__ `Devops for University Students`__
+=============== ========= ==================================
 
-.. __: http://www.socallinuxexpo.org/scale12x
-.. __: http://www.socallinuxexpo.org/scale12x/presentations/devops-university-students
-.. __: http://chefconf.opscode.com/chefconf/
+.. __: http://www.oscon.com/oscon2014
+.. __: http://www.oscon.com/oscon2014/public/schedule/detail/34145
 
 Past Conference Talks
 ---------------------
@@ -103,11 +101,14 @@ DrupalCon
 SCALE
 ~~~~~
 
-==========  ====================================================================
-2012 (11x)  `Ten years of FOSS hosting at the OSU Open Source Lab`_ (`slides`__)
-2010  (9x)  `Scalable Virtualization with Ganeti`_ (`html`__) (`pdf`__)
-================================================================================
+========== ====================================================================
+2014 (12x) `Devops for University Students`__ (`slides`__)
+2012 (11x) `Ten years of FOSS hosting at the OSU Open Source Lab`_ (`slides`__)
+2010  (9x) `Scalable Virtualization with Ganeti`_ (`html`__) (`pdf`__)
+========== ====================================================================
 
+.. __: http://www.socallinuxexpo.org/scale12x/presentations/devops-university-students
+.. __: http://lancealbertson.com/slides/devopsbootcamp-scale12x/
 .. _Ten years of FOSS hosting at the OSU Open Source Lab: http://www.socallinuxexpo.org/scale11x/presentations/ten-years-foss-hosting-osu-open-source-lab
 .. __: http://www.slideshare.net/ramereth/10-years-of-foss-hosting-at-the-osuosl
 .. _Scalable Virtualization with Ganeti: http://www.socallinuxexpo.org/scale9x/presentations/scalable-virtualization-ganeti
@@ -150,6 +151,16 @@ PuppetConf
 
 .. _Lessons Learned in the OSUOSL Puppet Migration: http://puppetconf2013b.sched.org/event/f51ebceee51257bad5964a88cbe7158d#.UpfOWrWJAjA
 .. __: http://www.slideshare.net/ramereth/lessons-learned-in-the-osuosl-puppet-migration
+
+ChefConf
+~~~~~~~~
+
+==== ================================================
+2014 `Devops for University Students`__ (`slides`__)
+==== ================================================
+
+.. __: http://chefconf.opscode.com/chefconf/
+.. __: http://lancealbertson.com/slides/devopsbootcamp-chefconf2014/
 
 Courses
 -------
