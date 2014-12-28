@@ -5,11 +5,12 @@ if [ ! -d venv ] ; then
     pip install -r requirements.txt
 fi
 
-if [ ! /var/www/lancealbertson.com/htdocs ] ; then
+if [ -d /var/www/lancealbertson.com/htdocs ] ; then
   ln -sf /var/www/lancealbertson.com/htdocs output
 fi
 
 source venv/bin/activate
+git checkout master
 git pull --quiet
 git submodule update --quiet --init
 make clean
