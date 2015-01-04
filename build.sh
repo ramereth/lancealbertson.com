@@ -6,7 +6,8 @@ if [ ! -d venv ] ; then
 fi
 
 if [ -d /var/www/lancealbertson.com/htdocs ] ; then
-  ln -sf /var/www/lancealbertson.com/htdocs output
+  rmdir /var/www/lancealbertson.com/htdocs
+  ln -sf output /var/www/lancealbertson.com/htdocs
 fi
 
 source venv/bin/activate
