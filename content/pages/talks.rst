@@ -18,12 +18,7 @@ Here's a list of talks I have coming up and a few that I have done recently.
 Upcoming Conference Talks
 -------------------------
 
-=============== ========= ==================================
-Jul 20-24, 2014 `OSCON`__ `Devops for University Students`__
-=============== ========= ==================================
-
-.. __: http://www.oscon.com/oscon2014
-.. __: http://www.oscon.com/oscon2014/public/schedule/detail/34145
+*None*
 
 Past Conference Talks
 ---------------------
@@ -32,6 +27,7 @@ OSCON
 ~~~~~
 
 ====  ============================================================================
+2014  `Devops for University Students`_ (`slides`__)
 2012  `Comparing Open Source Private Cloud Platforms`_
 2011  `Ganeti Web Manager: Cluster Management Made Simple`_ (`html`__) (`pdf`__)
 2011  `Hands-on Virtualization with Ganeti`_ (`html`__) (`pdf`__)
@@ -39,6 +35,8 @@ OSCON
 2009  `Server Management & Source Control: The key to scalability and teamwork`_
 ====  ============================================================================
 
+.. _Devops for University Students: http://www.oscon.com/oscon2014/public/schedule/detail/34145
+.. __: http://slides.osuosl.org/devopsbootcamp-presentation/
 .. _Comparing Open Source Private Cloud Platforms: http://www.oscon.com/oscon2012/public/schedule/detail/24376
 .. _Ganeti Web Manager\: Cluster Management Made Simple: http://www.oscon.com/oscon2011/public/schedule/detail/18464
 .. __: http://lancealbertson.com/slides/gwm-oscon11/
@@ -102,11 +100,14 @@ SCALE
 ~~~~~
 
 ========== ====================================================================
+2015 (13x) `Packer: VM Image Automation`__ (`slides`__)
 2014 (12x) `Devops for University Students`__ (`slides`__)
 2012 (11x) `Ten years of FOSS hosting at the OSU Open Source Lab`_ (`slides`__)
 2010  (9x) `Scalable Virtualization with Ganeti`_ (`html`__) (`pdf`__)
 ========== ====================================================================
 
+.. __: http://www.socallinuxexpo.org/scale/13x/presentations/packer-vm-image-automation
+.. __: http://lancealbertson.com/slides/packer-scale13x
 .. __: http://www.socallinuxexpo.org/scale12x/presentations/devops-university-students
 .. __: http://lancealbertson.com/slides/devopsbootcamp-scale12x/
 .. _Ten years of FOSS hosting at the OSU Open Source Lab: http://www.socallinuxexpo.org/scale11x/presentations/ten-years-foss-hosting-osu-open-source-lab
