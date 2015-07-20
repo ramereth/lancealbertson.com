@@ -70,6 +70,22 @@ build much of the dependencies using mock and hosting it in a local
 repository. Thankfully we didn't require many dependencies, and all of the
 builds had no compile problems.
 
+Storage layout and configuration
+--------------------------------
+
+One of the other interesting parts of this was the storage configuration for the
+servers. These machines came with five 387GB SSDs and ten 1.2TB of SAS disks.
+The hardware RAID controller comes with a feature called RAID6T2 which provides
+a two tier RAID solution but visible as a single block device. Essentially it
+uses the SAS disks for the cold storage and the SSDs are for hot cache access
+and writing.
+
+Being a lover of open source, I was interested in seeing how this performed
+against other technologies such as bcache. While I don't have all of the numbers
+still, the hardware RAID out performed bcache by quite a bit. Eventually I'd
+like to see if there are other tweaks so we aren't reliant on a proprietary RAID
+controller, but for now the controller is working flawlessly.
+
 Production deployment and results
 ---------------------------------
 
