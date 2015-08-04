@@ -1,6 +1,6 @@
 Leveling up with POWER8
 #######################
-:date: 2015-07-17 18:38
+:date: 2015-08-04 13:37
 :author: lance
 :tags: ibm, power8
 :slug: leveling-up-with-power8
@@ -23,6 +23,8 @@ to overcome to make this work:
   which was still getting support from RedHat at the time
 * There was no CentOS ppc64le build yet and RHEL 7 wasn't quite officially
   supported yet (however, it was added in 7.1)
+* This platform uses a different boot process than other machines, namely the
+  OPAL firmware which uses the Petitboot boot loader
 
 POWER8 architecture differences
 -------------------------------
@@ -37,9 +39,11 @@ standards and essentially boot like an x86 machine more or less (i.e. what we're
 more used to).
 
 When you first boot a POWER8 machine that is using OPAL, you use IPMI to connect
-to the serial console (which needs to be enabled in the FSP). When it first
-boots up, you'll see a Linux kernel booting up and then a boot prompt running
-Petitboot. Petitboot is an kexec based boot loader.
+to the serial console (which needs to be enabled in the FSP). The FSP stands for
+the Flexible Service Processor which is basically the low level firmware that
+manages the hardware of the machine. When it first boots up, you'll see a Linux
+kernel booting up and then a boot prompt running Petitboot. Petitboot is a
+kexec based boot loader.
 
 This basically allows you to do the following:
 
@@ -48,25 +52,26 @@ This basically allows you to do the following:
 * Give you a sensible way to install an OS remotely
 
 When it boots an installed system, it'll actually do a kexec and reboot into the
-actual OS kernel. Overall, its a pretty easy to use and simple way to remotely
-manage a machine.
+actual OS kernel. Overall, it is an easy and simple way to remotely manage a
+machine.
 
 Operating System Setup
 ----------------------
 
 The next major challenge was creating a stable operating system environment.
-When I first starting to test these machines, I was using a beta build of RHEL 7
-for ppc64le which was a bit buggy for the architecture. Thankfully 7.1 was
-released recently which provided a much more stable installer and platform in
-general. Getting the OS installed was the easy part, the more challenging part
-was getting our normal base system up with Chef. This required manually building
-a chef client for ppc64le since none existed yet. This was fairly easy to do
-since they have a tool called Omnibus to build chef.
+When I first started to test these machines, I was using a beta build of RHEL 7
+for ppc64le that contained bugs. Thankfully 7.1 was released recently which
+provided a much more stable installer and platform in general. Getting the OS
+installed was the easy part, the more challenging part was getting our normal
+base system up with Chef. This required manually building a chef client for
+ppc64le since none existed yet. We ended up building the client using the
+Omnibus Chef build on a guest which meant we had to bootstrap the build
+environment some a little too.
 
 The next challenge was installing all of the base packages and packages we
 needed for running our FTP mirrors. Most of those packages are in EPEL however
-there is no ppc64le builds (yet) for the architecture. So I needed up having to
-build much of the dependencies using mock and hosting it in a local
+there is no ppc64le builds (yet) for the architecture. So we needed up having to
+build many of the dependencies using mock and hosting it in a local
 repository. Thankfully we didn't require many dependencies, and all of the
 builds had no compile problems.
 
@@ -74,11 +79,11 @@ Storage layout and configuration
 --------------------------------
 
 One of the other interesting parts of this was the storage configuration for the
-servers. These machines came with five 387GB SSDs and ten 1.2TB of SAS disks.
-The hardware RAID controller comes with a feature called RAID6T2 which provides
-a two tier RAID solution but visible as a single block device. Essentially it
-uses the SAS disks for the cold storage and the SSDs are for hot cache access
-and writing.
+servers. These machines came with five 387GB SSDs and ten 1.2TB SAS disks.  The
+hardware RAID controller comes with a feature called RAID6T2 which provides a
+two tier RAID solution but visible as a single block device. Essentially it uses
+the SAS disks for the cold storage and the SSDs are for hot cache access and
+writing.
 
 Being a lover of open source, I was interested in seeing how this performed
 against other technologies such as bcache. While I don't have all of the numbers
