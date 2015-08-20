@@ -73,6 +73,9 @@ LinuxCon
 ~~~~~~~~
 
 ====  ================================================================================
+2015  `Devops for University Students`__ (`slides`__)
+2015  `Packer: VM Image Automation`__ (`slides`__)
+2015  `OpenStack vs. Ganeti`__ (`slides`__)
 2013  GlusterFS at OSUOSL (Gluster Workshop)
 2012  Hands-on Virtualization with Ganeti (`slides part #1`__) (`slides part #2`__)
 2012  Ganeti Web Manager: Cluster Management Made Simple
@@ -80,6 +83,12 @@ LinuxCon
 2010  Creating a low-cost clustered virtualization environment using Ganeti (`html`__)
 ====  ================================================================================
 
+.. __: http://sched.co/3YTQ
+.. __: http://lancealbertson.com/slides/devopsbootcamp-linuxcon2015
+.. __: http://sched.co/40im
+.. __: http://lancealbertson.com/slides/packer-linuxcon2015
+.. __: http://sched.co/3Z5C
+.. __: http://lancealbertson.com/slides/openstack-vs-ganeti-linuxcon2015
 .. __: http://www.slideshare.net/ramereth/hands-on-virtualization-with-ganeti-part-1-linux-con
 .. __: http://www.slideshare.net/ramereth/ganeti-handson-walkthru-part-2-linuxcon-2012
 .. __: http://lancealbertson.com/slides/hosting-osuosl-linuxcon11/
