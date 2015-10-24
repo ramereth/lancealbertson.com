@@ -172,6 +172,16 @@ ChefConf
 .. __: http://chefconf.opscode.com/chefconf/
 .. __: http://lancealbertson.com/slides/devopsbootcamp-chefconf2014/
 
+SeaGL
+~~~~~
+
+==== ====================================
+2015 `Project Hosting 3.0`__ (`slides`__)
+==== ====================================
+
+.. __: http://seagl.org/schedule/2015.html
+.. __: http://lancealbertson.com/slides/project-hosting-seagl2015/
+
 Courses
 -------
 
