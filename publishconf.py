@@ -43,7 +43,7 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 4
 
-PLUGIN_PATH = 'pelican-plugins'
+PLUGIN_PATHS = [ 'pelican-plugins' ]
 PLUGINS = [ 'sitemap', ]
 
 SITEMAP = {
@@ -60,7 +60,7 @@ SITEMAP = {
     }
 }
 
-CSS_FILE = ( 'css/blog.css' )
+CUSTOM_CSS = ( 'css/blog.css' )
 STATIC_PATHS = ["media", "css", "favicon.png", "favicon.ico", "robots.txt",
     "slides", "googlef0f83cbd048e3b95.html" ]
 
