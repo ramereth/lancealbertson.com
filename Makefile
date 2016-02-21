@@ -15,7 +15,7 @@ FTP_TARGET_DIR=/
 SSH_HOST=lancealbertson.com
 SSH_PORT=22
 SSH_USER=lance
-SSH_TARGET_DIR=/var/www/lancealbertson.com
+SSH_TARGET_DIR=/var/www/lancealbertson.com/htdocs
 
 S3_BUCKET=my_s3_bucket
 

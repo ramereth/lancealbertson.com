@@ -4,6 +4,3 @@
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins.git
-[submodule "content/slides"]
-	path = content/slides
-	url = https://github.com/ramereth/slides-static.git
